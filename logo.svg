@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25.672867mm"
+   height="8.3513193mm"
+   viewBox="0 0 25.672867 8.3513193"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="logo.svg"
+   inkscape:export-xdpi="79.077332"
+   inkscape:export-ydpi="79.077332"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="160.80006"
+       y="326.99445"
+       width="270.5444"
+       height="153.64873"
+       id="rect335" />
+    <rect
+       x="144.09843"
+       y="285.77548"
+       width="661.38385"
+       height="273.43512"
+       id="rect113" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.6593827,-1.9844814)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-37.573864,-75.221141)"
+       id="text111"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect113);shape-padding:2.28627;fill:#ffffff"><tspan
+         x="146.38477"
+         y="309.29688"
+         id="tspan994">InArray</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-41.123535,-79.246017)"
+       id="text333"
+       style="font-size:16px;line-height:0.9;letter-spacing:1.89px;white-space:pre;shape-inside:url(#rect335);fill:#ffffff"><tspan
+         x="160.80078"
+         y="338.35039"
+         id="tspan996">CANADA</tspan></text>
+  </g>
+</svg>
